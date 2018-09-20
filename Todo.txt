@@ -1,0 +1,15 @@
+Objective
+
+Create a server which can accept upto a million connections.
+
+Thinking of doing it via netty. Read the following docs:
+
+https://netty.io/wiki/
+https://www.google.co.in/search?q=netty+example&rlz=1C5CHFA_enIN808IN808&oq=netty+example&aqs=chrome.0.0l6.4576j0j7&sourceid=chrome&ie=UTF-8
+https://netty.io/4.1/xref/io/netty/example/echo/EchoClient.html
+https://github.com/netty/netty/wiki/New-and-noteworthy-in-4.1
+https://github.com/netty/netty/wiki
+https://netty.io/wiki/new-and-noteworthy-in-4.1.html
+http://netty.io/wiki/user-guide-for-4.x.html
+http://netty.io/wiki/native-transports.html
+https://stackoverflow.com/questions/44708704/netty-as-high-performant-http-server-to-handle-2-3-million-requests-sec
