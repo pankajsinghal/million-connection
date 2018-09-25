@@ -13,3 +13,4 @@ https://netty.io/wiki/new-and-noteworthy-in-4.1.html
 http://netty.io/wiki/user-guide-for-4.x.html
 http://netty.io/wiki/native-transports.html
 https://stackoverflow.com/questions/44708704/netty-as-high-performant-http-server-to-handle-2-3-million-requests-sec
+http://blog.caustik.com/2012/08/19/node-js-w1m-concurrent-connections/
